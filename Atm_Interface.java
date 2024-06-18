@@ -1,4 +1,3 @@
-//.....Creating an Atm Interface project by Codsoft using java.......
 
 import java.util.Scanner;
 
